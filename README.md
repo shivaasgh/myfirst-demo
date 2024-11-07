@@ -1,4 +1,5 @@
 # myfirst-demo
 This is my first Git repository.
 <br>
-Author - shiva singh
+Author - shiva and payal
+
